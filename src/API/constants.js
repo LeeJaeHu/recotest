@@ -1,1 +1,1 @@
-export const baseUrl = "http://ljhthings.com:8080/";
+export const baseUrl = "http://ljhthings.com";
